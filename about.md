@@ -1,5 +1,7 @@
 # Haste
 
+This project adds line highlighting to haste-server.
+
 Sharing code is a good thing, and it should be _really_ easy to do it.
 A lot of times, I want to show you something I'm seeing - and that's where we
 use pastebins.
